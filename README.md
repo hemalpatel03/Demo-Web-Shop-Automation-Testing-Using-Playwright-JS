@@ -49,5 +49,3 @@ This framework is built using **Playwright Test Runner**, which provides fast ex
 - Screenshot, video, and trace capture on failure  
 - Easy to maintain and scalable framework  
 
-
-nce
