@@ -23,6 +23,8 @@ This framework is built using **Playwright Test Runner**, which provides fast ex
 
 ## 🌐 Application Under Test
 - **Website:** https://demowebshop.tricentis.com/
+- **Playwright-Report:** https://hemalpatel03.github.io/Demo-Web-Shop-Automation-Testing-Using-Playwright-JS/
+- **Test_Video:** https://github.com/hemalpatel03/Demo-Web-Shop-Automation-Testing-Using-Playwright-JS/blob/main/testvideo.webm
 
 ---
 
