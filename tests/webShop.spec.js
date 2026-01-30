@@ -14,7 +14,7 @@ test.describe('Demo Web Shop Tests', () => {
   await page.getByRole('textbox', { name: 'First name:' }).click();
   await page.getByRole('textbox', { name: 'First name:' }).fill('test');
   await page.getByRole('textbox', { name: 'Last name:' }).fill('user');
-  await page.getByRole('textbox', { name: 'Email:' }).fill('testuser_215@gmail.com');
+  await page.getByRole('textbox', { name: 'Email:' }).fill('testuser_216@gmail.com');
   await page.getByRole('textbox', { name: 'Password:', exact: true }).fill('test@123');
   await page.getByRole('textbox', { name: 'Confirm password:' }).fill('test@123');
   await page.getByRole('button', { name: 'Register' }).click();
